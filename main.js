@@ -1,4 +1,4 @@
-function test(packName) {
+function showIconsForPack(packName) {
     loadPack(packName, arguments);
 }
 
